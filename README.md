@@ -17,6 +17,6 @@ How to use it with Maven.
 <parent>
     <groupId>com.tupilabs</groupId>
     <artifactId>parent-oss</artifactId>
-    <version>0.2</version>
+    <version>0.1</version>
 </parent>
 ```
